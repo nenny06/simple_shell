@@ -2,6 +2,6 @@
 # this file lists all contributors to the repository
 # See simple_shell/authors to make modifications
 
-  Roseline Igwe <Dr.roxiecrux@gmail.com>
+  Roseline Igwe <dr.roxiecrux@gmail.com>
  
   Nnenna Uzoezie <nnennauzo55@gmail.com>
